@@ -1,0 +1,3 @@
+learning git initialization first commit from smartGit 
+ git config --get user.email = sagardhirajlal.patel@omniwyse.com
+ ------------1
