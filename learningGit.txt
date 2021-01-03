@@ -4,3 +4,4 @@ learning git initialization first commit from smartGit
  testBranch created, checkedOut and pushed. This is from testBranch.
  ------------2
 By 288 in main?
+Changing from sourceTree
