@@ -1,6 +1,5 @@
 learning git initialization first commit from smartGit 
  git config --get user.email = sagardhirajlal.patel@omniwyse.com
  ------------1
- Updated after a testBranch and changes in it was created and pushed.
- This is the update in master branch.
+ testBranch created, checkedOut and pushed. This is from testBranch.
  ------------2
