@@ -1,3 +1,6 @@
 learning git initialization first commit from smartGit 
  git config --get user.email = sagardhirajlal.patel@omniwyse.com
  ------------1
+ Updated after a testBranch and changes in it was created and pushed.
+ This is the update in master branch.
+ ------------2
