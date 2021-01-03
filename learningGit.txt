@@ -3,16 +3,3 @@ learning git initialization first commit from smartGit
  ------------1
  testBranch created, checkedOut and pushed. This is from testBranch.
  ------------2
-(Update in master branch after someone has created and pushed changes in new test branch.)
- ------------1
-
- ------------1
- Updated after a testBranch and changes in it was created and pushed.
- This is the update in master branch.
- ------------2
-(This is from test branch. Last time, we created, checked out and pushed it.)
- ------------1
- ------------1
- testBranch created, checkedOut and pushed. This is from testBranch.
- ------------2
-(This is from test branch. Last time, we created, checked out and pushed it.)
